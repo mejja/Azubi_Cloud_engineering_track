@@ -1,0 +1,8 @@
+# Bash Script to add two numbers on hacker rank challenges
+
+read x;
+read y;
+echo $((x+y));
+echo $((x-y));
+echo $((x*y));
+echo $((x/y));
