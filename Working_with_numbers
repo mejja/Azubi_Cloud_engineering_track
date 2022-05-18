@@ -1,4 +1,5 @@
 # Bash Script to add two numbers on hacker rank challenges
+#https://github.com/mejja/Azubi_Cloud_engineering_track/blob/main/Working_with_numbers
 
 read x;
 read y;
