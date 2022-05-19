@@ -1,7 +1,0 @@
-#Shell Script to loop between all odd numbers from range 1 to 100 a challenge on hackerrank website
-#https://github.com/mejja/Azubi_Cloud_engineering_track/blob/main/looping-and-skipping
-
-for i in {1..100..2};do
-
-    echo $i
-done
