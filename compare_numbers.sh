@@ -1,5 +1,5 @@
 #! /bin/bash
-#https://github.com/mejja/azubi_cloud_engineering_track/compare_numbers.sh
+#https://github.com/mejja/azubi_cloud_engineering_track/blob/main/compare_numbers.sh
 #script to compare two numbers entered by user
 
 echo "Enter the first Number:"
