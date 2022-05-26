@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/mejja/azubi_cloud_engineering_track/blob/main/head_2.sh
 #script to output the first 20 characters from a file
 
 #The location of the text file path
